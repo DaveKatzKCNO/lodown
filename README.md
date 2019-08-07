@@ -1,7 +1,8 @@
 # lodown
 An npm functional programming library project
 
-In this project, you're going to create your own functional library of code and release this code for use through the `npm` (Node Package Management) platform.
+In this project, you're going to create your own functional 
+library of code and release this code for use through the `npm` (Node Package Management) platform.
 
 You'll then use your lodown library to solve problems in the next project.
 

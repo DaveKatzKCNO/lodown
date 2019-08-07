@@ -1,0 +1,22 @@
+{
+  "name": "lodown-davekatzkcno",
+  "version": "1.0.1",
+  "description": "my first npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveKatzKCNO/lodown.git"
+  },
+  "author": "Dave Katz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveKatzKCNO/lodown/issues"
+  },
+  "homepage": "https://github.com/DaveKatzKCNO/lodown#readme"
+}
